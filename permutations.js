@@ -40,10 +40,13 @@ var wordA = 'not'
 var wordB = 'ton'
 var wordC = 'tin'
 var wordD = 'tang'
+var wordE = 'pool'
+var wordF = 'loop'
 
 console.log(isAnagram(wordA, wordB)) // expected output: true;
 console.log(isAnagram(wordB, wordC)) // expected output: false;
-console.log(isAnagram(wordC, wordD)) // expected output: false; 
+console.log(isAnagram(wordC, wordD)) // expected output: false;
+console.log(isAnagram(wordE, wordF)) // expected output: true;
 */
 
 
